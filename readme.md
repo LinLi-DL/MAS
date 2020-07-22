@@ -1,5 +1,5 @@
-MAS
-
+## [MAS: Marine Animal Segmentation]
+by Lin Li, Junyu Dong, Eric Rigall, Geng Chen
 
 # Prerequisites
 - [Python 3.6](https://www.python.org/)

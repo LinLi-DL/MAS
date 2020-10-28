@@ -14,3 +14,9 @@ by Lin Li, Junyu Dong, Eric Rigall, Geng Chen
 git clone git@github.com:LinLi-DL/MAS.git
 cd MAS/
 ```
+
+## MAS3K dataset
+```shell
+链接：https://pan.baidu.com/s/1oTp4RYOILbjjNHgGdvjWaw 
+提取码：y2af 
+```

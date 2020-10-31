@@ -17,6 +17,8 @@ cd MAS/
 
 ## MAS3K dataset
 ```shell
-链接：https://pan.baidu.com/s/1oTp4RYOILbjjNHgGdvjWaw 
-提取码：y2af 
+
+链接：https://pan.baidu.com/s/1_GH_aN6pFN7MaIl73nbqgg 
+提取码：n7vq 
+
 ```

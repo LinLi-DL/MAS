@@ -22,3 +22,10 @@ cd MAS/
 提取码：n7vq 
 
 ```
+## MAS3K paper vedio
+```shell
+
+链接：https://pan.baidu.com/s/1CE6mHPNBbRyGWb7s7jaJbg 
+提取码：dfla 
+
+```

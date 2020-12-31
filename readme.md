@@ -18,14 +18,14 @@ cd MAS/
 ## MAS3K dataset
 ```shell
 
-链接：https://pan.baidu.com/s/1_GH_aN6pFN7MaIl73nbqgg 
-提取码：n7vq 
+Link：https://pan.baidu.com/s/1_GH_aN6pFN7MaIl73nbqgg 
+Code：n7vq 
 
 ```
 ## MAS3K paper vedio
 ```shell
 
-链接：https://pan.baidu.com/s/1CE6mHPNBbRyGWb7s7jaJbg 
-提取码：dfla 
+Link：https://pan.baidu.com/s/1CE6mHPNBbRyGWb7s7jaJbg 
+Code：dfla 
 
 ```
